@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D74" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Flashcard" representedClassName="Flashcard" syncable="YES" codeGenerationType="class">
+        <attribute name="definition" optional="YES" attributeType="String"/>
+        <attribute name="term" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="FlashcardSet" representedClassName="FlashcardSet" syncable="YES" codeGenerationType="class">
+        <attribute name="title" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Flashcard" positionX="-54" positionY="9" width="128" height="73"/>
+        <element name="FlashcardSet" positionX="-48.4461669921875" positionY="-120.1353149414062" width="128" height="58"/>
+    </elements>
+</model>
