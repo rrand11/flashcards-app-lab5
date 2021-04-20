@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MAD Flashcards</string>
+    <string name="textview">TextView</string>
+    <string name="add_set">Add Set</string>
+    <string name="add_card">Add Card</string>
+    <string name="delete_card">Delete Card</string>
+    <string name="study">Study</string>
+    <string name="save">Save</string>
+</resources>

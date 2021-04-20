@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="69785e3a-288e-495c-9124-ccef5e29a22c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MAD Flashcards" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MAD Flashcards" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MAD Flashcards" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MAD Flashcards" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ntelECK4gL9FUXCO2hspi2pLaN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3a_API_30_x86" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-02-01T21:40:09.053Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="Pixel_3a_API_30_x86" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/androidTest/java/cs/mad/madflashcards" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lab2" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cs.mad.madflashcards.entities" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cs.mad.madflashcards" />
+      <recent name="cs.mad" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="junit.framework.TestCase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.FlashcardSetKt">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MainActivity" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false" temporary="true">
+      <module name="MAD_Flashcards.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="specific_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="cs.mad.madflashcards.MainActivity" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MAD_Flashcards.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="FlashcardTest" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="MAD_Flashcards.app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="cs.mad.madflashcards.entities.FlashcardTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2" />
+    </configuration>
+    <configuration name="FlashcardKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="MAD_Flashcards.app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cs.mad.madflashcards.entities.FlashcardKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlashcardSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="MAD_Flashcards.app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cs.mad.madflashcards.entities.FlashcardSetKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunFlashcardsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="MAD_Flashcards.app" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="cs.mad.madflashcards.entities.RunFlashcardsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.FlashcardSetKt" />
+        <item itemvalue="Kotlin.FlashcardKt" />
+        <item itemvalue="Kotlin.RunFlashcardsKt" />
+        <item itemvalue="Android Instrumented Tests.FlashcardTest" />
+        <item itemvalue="Android App.MainActivity" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69785e3a-288e-495c-9124-ccef5e29a22c" name="Default Changelist" comment="" />
+      <created>1612213962612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612213962612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="5" key="#All_in_MAD_Flashcards.app_(1)" timestamp="1612220697929">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="517" y="5" key="#All_in_MAD_Flashcards.app_(1)/0.0.1536.824@0.0.1536.824" timestamp="1612220697929" />
+    <state x="505" y="0" key="#FlashcardTest" timestamp="1612301057887">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="505" y="0" key="#FlashcardTest/0.0.1536.824@0.0.1536.824" timestamp="1612301057887" />
+    <state x="432" y="137" key="#PSD" timestamp="1612379242405">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="432" y="137" key="#PSD/0.0.1536.824@0.0.1536.824" timestamp="1612379242405" />
+    <state x="519" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1612301056469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="519" y="202" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.824@0.0.1536.824" timestamp="1612301056469" />
+    <state x="691" y="305" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1612220811649">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="691" y="305" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1612220811649" />
+    <state x="713" y="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1612220812782">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="713" y="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1612220812782" />
+    <state x="391" y="5" key="#cs.mad.madflashcards.entities_in_MAD_Flashcards.app" timestamp="1612300967670">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="391" y="5" key="#cs.mad.madflashcards.entities_in_MAD_Flashcards.app/0.0.1536.824@0.0.1536.824" timestamp="1612300967670" />
+    <state x="810" y="166" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1612379289428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="810" y="166" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1612379289428" />
+    <state x="470" y="100" width="970" height="582" key="AVDManager" timestamp="1612300691531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="100" width="970" height="582" key="AVDManager/0.0.1536.824@0.0.1536.824" timestamp="1612300691531" />
+    <state x="495" y="146" key="AndroidCreateResourceDirectoryDialog" timestamp="1612219726719">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="495" y="146" key="AndroidCreateResourceDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1612219726719" />
+    <state x="896" y="153" key="FileChooserDialogImpl" timestamp="1612379834355">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="896" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612379834355" />
+    <state width="952" height="194" key="GridCell.Tab.0.bottom" timestamp="1612379774431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="952" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612379774431" />
+    <state width="952" height="194" key="GridCell.Tab.0.center" timestamp="1612379774431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="952" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612379774431" />
+    <state width="952" height="194" key="GridCell.Tab.0.left" timestamp="1612379774431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="952" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612379774431" />
+    <state width="952" height="194" key="GridCell.Tab.0.right" timestamp="1612379774431">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="952" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612379774431" />
+    <state width="1443" height="194" key="GridCell.Tab.1.bottom" timestamp="1612221464948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1443" height="194" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612221464948" />
+    <state width="1443" height="194" key="GridCell.Tab.1.center" timestamp="1612221464948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1443" height="194" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1612221464948" />
+    <state width="1443" height="194" key="GridCell.Tab.1.left" timestamp="1612221464948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1443" height="194" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1612221464948" />
+    <state width="1443" height="194" key="GridCell.Tab.1.right" timestamp="1612221464948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1443" height="194" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1612221464948" />
+    <state x="555" y="43" key="SettingsEditor" timestamp="1612379617446">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="555" y="43" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612379617446" />
+    <state x="1037" y="182" width="481" height="444" key="chooseDestDirectoryDialog" timestamp="1612221017653">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1037" y="182" width="481" height="444" key="chooseDestDirectoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1612221017653" />
+    <state x="658" y="200" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog" timestamp="1612215426437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="658" y="200" key="com.android.tools.idea.run.deployment.ModifyDeviceSetDialog/0.0.1536.824@0.0.1536.824" timestamp="1612215426437" />
+    <state x="648" y="75" width="756" height="550" key="dock-window-1" timestamp="1612377861632">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="648" y="75" width="756" height="550" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1612377861632" />
+    <state x="743" y="0" width="586" height="824" key="find.popup" timestamp="1612379352411">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="743" y="0" width="586" height="824" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1612379352411" />
+    <state x="993" y="131" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1612221017671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="993" y="131" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1612221017671" />
+    <state x="613" y="178" key="run.anything.popup" timestamp="1612215619949">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="613" y="178" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1612215619949" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MAD_Flashcards$entities_in_MAD_Flashcards_app.ic" NAME="entities in MAD_Flashcards.app Coverage Results" MODIFIED="1612216049099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>entities.*</FILTER>
+    </SUITE>
+  </component>
+</project>
